@@ -1,0 +1,177 @@
+========================================================================
+  POLYMARKET TOP TRADER CONSENSUS REPORT
+========================================================================
+  Generated : 2026-06-01 21:09 UTC
+  Traders   : top 200 by all-time PnL
+  Consensus : 5+ top traders on the same side
+
+SECTION 1 -- TOP TRADERS
+--------------------------
+
+  Rank  Username                      All-Time PnL        Volume
+  --------------------------------------------------------------
+  1     strike123                            $433K         $2.6M
+  2     Inaccuratestake                      $357K         $1.5M
+  3     VPenguin                             $272K         $610K
+  4     prayingnotbroke                      $225K         $622K
+  5     wupplasaurus                         $198K         $793K
+  6     aenews2                              $188K         $3.1M
+  7     Dropper                              $155K         $279K
+  8     Surpriced-Legacy                     $123K         $212K
+  9     grecomaker                           $117K         $1.7M
+  10    0xcF609D3256f0f37f0595E5Dc6          $112K         $523K
+  11    swisstony                             $93K         $2.1M
+  12    0xA2cd4CcdA9A1f95949DF7A335           $86K         $3.6M
+  13    tutrucks                              $84K         $396K
+  14    ArmageddonRewardsBilly                $84K         $1.8M
+  15    betwick                               $74K         $244K
+  16    0x3DFb153c197D4C19D3B31c1ec           $72K         $141K
+  17    HomeRunHazard                         $65K         $979K
+  18    The Spirit of Ukraine>UMA             $62K         $678K
+  19    Parz1vaI                              $62K         $494K
+  20    yen4u                                 $60K         $334K
+  21    kinderSman                            $57K         $108K
+  22    Kevindoto                             $53K         $141K
+  23    thelastrabbit                         $51K          $50K
+  24    0x594d0c9a3eb7                        $46K         $120K
+  25    needheal                              $44K         $213K
+  ... 175 more traders in data/traders.parquet
+
+SECTION 2 -- OPEN POSITION COVERAGE
+-------------------------------------
+
+  Traders with open positions : 185 / 200
+  Total position records      : 20,105
+  Unique markets covered      : 13,547
+  Combined position value     : $44.8M
+
+  Category                 Positions         Value
+  --------------------------------------------------
+  Politics                      3840        $22.3M
+  Crypto                        1770         $7.9M
+  Other                         7587         $7.0M
+  Sports                        4488         $5.2M
+  Finance                       1690         $2.0M
+  Tech                           451         $255K
+  Entertainment                  112          $53K
+  Science                        167           $2K
+
+SECTION 3 -- CONSENSUS POSITIONS  (5+ TRADERS AGREEING)
+---------------------------------------------------------
+
+  225 raw consensus positions -> 83 after filters (prob 5-95%, value >= $1K) across 71 markets.
+
+  Market                                            Side          Strength Traders   Prob     Value
+  -------------------------------------------------------------------------------------------------
+  Will Keiko Fujimori win the 2026 Peruvian preside Yes                 15      15  77.5%     $163K
+  US x Iran permanent peace deal by June 15, 2026?  Yes                 13      18  14.5%      $64K
+  US x Iran permanent peace deal by June 7, 2026?   Yes                 13      17   6.5%      $60K
+  Will the US confirm that aliens exist before 2027 No                  11      12  84.5%     $813K
+  Will England win the 2026 FIFA World Cup?         Yes                 11      11  11.1%      $43K
+  Will the U.S. invade Iran before 2027?            No                  10      17  83.5%     $606K
+  Will Brazil win the 2026 FIFA World Cup?          Yes                 10      10   8.6%      $39K
+  Will Argentina win the 2026 FIFA World Cup?       Yes                 10      10   8.9%      $27K
+  Will Spencer Pratt win the 2026 Los Angeles mayor No                   9      15  77.5%     $556K
+  Will Flávio Bolsonaro win the 2026 Brazilian pres Yes                  9      10  28.5%      $29K
+  Will Portugal win the 2026 FIFA World Cup?        Yes                  9      11   9.3%      $13K
+  Will Germany win the 2026 FIFA World Cup?         Yes                  9       9   5.5%      $12K
+  Roland Garros ATP: Frances Tiafoe vs Matteo Arnal Frances Tiafo        8      21  78.4%     $1.2M
+  Will France win the 2026 FIFA World Cup?          Yes                  8       9  17.1%      $76K
+  Will Spain win the 2026 FIFA World Cup?           Yes                  8      10  16.8%      $75K
+  US-Iran nuclear deal before 2027?                 No                   8      10  32.0%      $28K
+  Will the Iranian regime fall before 2027?         No                   7      11  87.5%     $232K
+  Will Reza Pahlavi enter Iran by December 31?      No                   7       7  89.5%      $40K
+  Will Xavier Becerra win the California Governor E Yes                  7       7  74.7%      $33K
+  Iran closes its airspace by June 15?              No                   7       8  87.1%      $27K
+  Will China invade Taiwan by end of 2026?          No                   6       8  93.5%     $435K
+  Will Trump acquire Greenland before 2027?         No                   6       9  93.5%     $338K
+  Will GameStop acquire eBay?                       No                   6       7  85.5%     $138K
+  US x Iran diplomatic meeting by June 30, 2026?    No                   6       9  43.0%     $123K
+  Billionaire one-time wealth tax passes in Califor No                   6       7  60.0%      $97K
+  Iran leadership change by December 31?            No                   6       8  72.0%      $86K
+  Will Mojtaba Khamenei be head of state in Iran en Yes                  6      10  71.2%      $77K
+  Will United Russia (ER) gain the most seats in th Yes                  6       7  55.5%      $34K
+  Iran agrees to surrender enriched uranium stockpi No                   6       8  61.5%      $31K
+  Trump out as President before 2027?               No                   5       7  89.5%     $601K
+  Will the San Antonio Spurs win the 2026 NBA Final Yes                  5       7  64.2%     $419K
+  US-Iran nuclear deal by June 30?                  Yes                  5      14  32.5%      $61K
+  Will Nicolás Maduro be the leader of Venezuela en Yes                  5       7  66.5%      $53K
+  Iran coup attempt by June 30?                     No                   5       6  94.5%      $53K
+  Will Gavin Newsom win the 2028 US Presidential El Yes                  5       5  15.8%       $8K
+  Will Kamala Harris win the 2028 US Presidential E Yes                  5       5   5.5%       $8K
+  Will Donald Trump publicly insult someone on May  Yes                  5       5  92.9%       $7K
+  Iran agrees to unrestricted shipping through Horm No                   5       5  83.5%       $2K
+  Putin out as President of Russia by December 31,  No                   4       5  91.5%     $890K
+  Strait of Hormuz traffic returns to normal by Jul No                   4       7  60.5%     $150K
+  Tampa Bay Rays vs. Boston Red Sox                 Boston Red So        4       5  36.5%      $71K
+  US x Iran permanent peace deal by December 31, 20 No                   4       6  28.5%      $29K
+  US x Iran diplomatic meeting by June 15, 2026?    No                   4       6  84.0%      $27K
+  Iran leadership change by June 30?                No                   4       6  94.5%      $18K
+  Miguel Díaz-Canel out as leader of Cuba by June 3 No                   4       5  85.5%      $17K
+  Israel x Iran permanent peace deal by June 30, 20 Yes                  4       6   8.2%       $8K
+  Will Roberto Sánchez Palomino win the 2026 Peruvi No                   4       6  76.7%       $8K
+  Israel x Hezbollah permanent peace deal by June 1 Yes                  4       6  10.2%       $5K
+  Will no qualifying diplomatic US-Iran meeting occ Yes                  4       5  42.9%       $5K
+  Will Nithya Raman win the 2026 Los Angeles mayora Yes                  4       6  12.5%       $2K
+  Hantavirus pandemic in 2026?                      No                   3       6  94.7%     $365K
+  Will the US acquire part of Greenland in 2026?    No                   3       8  86.5%     $120K
+  US x Iran permanent peace deal by June 30, 2026?  Yes                  3      13  24.5%     $117K
+   Iran agrees to end enrichment of uranium by June No                   3       6  79.0%      $93K
+  Will Graham Platner be the Democratic nominee for Yes                  3       7  94.8%      $40K
+  Starmer out by June 30, 2026?                     No                   3       6  84.5%      $34K
+  Will the Republican Party control the House after No                   3       5  80.5%      $27K
+  Will Spencer Pratt finish first in the first roun No                   3       5  80.5%      $23K
+  Will the next diplomatic US-Iran meeting be in Pa Yes                  3       5  35.5%      $11K
+  Will Tom Steyer win the California Governor Elect Yes                  3       6  15.7%       $5K
+  Starmer out by December 31, 2026?                 Yes                  2       6  74.5%      $55K
+  Will J.D. Vance win the 2028 Republican president Yes                  2       5  30.8%      $33K
+  US strike on Cuba by December 31?                 No                   2       6  46.5%      $25K
+  Will the Democratic Party control the Senate afte Yes                  2       5  47.5%      $18K
+  Iran agrees to surrender enriched uranium stockpi No                   1       9  91.5%     $173K
+  US announces new Iran agreement/ceasefire extensi No                   1       5  93.8%      $29K
+  Israel announces Lebanon ceasefire extension by J No                   1       5  64.5%       $4K
+  Will JD Vance win the 2028 US Presidential Electi No                   0       8  82.0%     $2.8M
+  Strait of Hormuz traffic returns to normal by end No                   0      12  81.5%     $1.0M
+  Will JD Vance win the 2028 US Presidential Electi Yes                  0       8  18.1%     $628K
+  Strait of Hormuz traffic returns to normal by end Yes                  0      12  18.5%      $38K
+  Will Donald Trump announce that the United States No                   0       5  84.5%      $20K
+  Will the U.S. invade Cuba in 2026?                No                   0       5  78.5%      $17K
+  Will the U.S. invade Cuba in 2026?                Yes                  0       5  21.5%      $12K
+  Will Donald Trump announce that the United States Yes                  0       5  15.5%       $7K
+  Iran agrees to surrender enriched uranium stockpi Yes                 -1       8   8.5%      $12K
+  US x Iran permanent peace deal by June 30, 2026?  No                  -3      10  75.5%     $246K
+  Will the US acquire part of Greenland in 2026?    Yes                 -3       5  13.5%       $1K
+  US-Iran nuclear deal by June 30?                  No                  -5       9  67.5%     $158K
+  Roland Garros ATP: Frances Tiafoe vs Matteo Arnal Matteo Arnald       -8      13  21.7%     $136K
+  Will Spencer Pratt win the 2026 Los Angeles mayor Yes                 -9       6  22.5%      $42K
+  Will the U.S. invade Iran before 2027?            Yes                -10       7  16.5%     $148K
+  US x Iran permanent peace deal by June 15, 2026?  No                 -13       5  85.5%     $137K
+
+  Trader disagreements (both sides 3+ traders, top 10 by strength):
+    US x Iran permanent peace deal by June 15, 2026?  [Yes (18), No (5)]
+    US x Iran permanent peace deal by June 7, 2026?  [Yes (17), No (4)]
+    Will the U.S. invade Iran before 2027?  [No (17), Yes (7)]
+    Will Spencer Pratt win the 2026 Los Angeles mayoral election  [No (15), Yes (6)]
+    Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi  [Frances Tiafoe (21), Matteo Arnaldi (13)]
+    Will the Iranian regime fall before 2027?  [No (11), Yes (4)]
+    Will Trump acquire Greenland before 2027?  [No (9), Yes (3)]
+    US x Iran diplomatic meeting by June 30, 2026?  [No (9), Yes (3)]
+    Will Mojtaba Khamenei be head of state in Iran end of 2026?  [Yes (10), No (4)]
+    US-Iran nuclear deal by June 30?  [Yes (14), No (9)]
+
+  Removed: 21 near-certainties (>95%), 121 longshots (<5%), 0 low-value (<$1K).
+
+SECTION 4 -- RESOLUTION ACCURACY
+----------------------------------
+
+  Consensus markets tracked   : 216
+  Resolved                    : 0
+  Awaiting resolution         : 216
+
+  No consensus markets have resolved yet.
+
+========================================================================
+  END OF REPORT
+========================================================================
+  Data files: data/traders.parquet | data/positions.parquet | data/consensus.parquet | data/resolution_tracker.parquet
+========================================================================

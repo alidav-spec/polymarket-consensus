@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/
+consensus_report.txt
